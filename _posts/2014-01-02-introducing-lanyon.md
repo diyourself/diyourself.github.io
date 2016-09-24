@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: 'Construyendo un Dron tipo Flone '
+published: true
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+El Proyecto [FLONE](https://flone.cc/) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ### Built on Poole
 
