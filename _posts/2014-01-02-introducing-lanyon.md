@@ -4,9 +4,11 @@ title: 'Construyendo un Dron tipo Flone '
 published: true
 ---
 
-El Proyecto [FLONE](http://flone.cc/) reivindica la utilización ciudadana del espacio aéreo, poniendo en valor la construcción colectiva de vehículos aéreos no tripulados y el empoderamiento tecnológico a través del hardware y software libre y la fabricación digital. Para la construcción del dron, hemos intentado recabar información de varias fuentes pertenecientes al proyecto:
+El Proyecto [FLONE](http://flone.cc/) reivindica la utilización ciudadana del espacio aéreo, poniendo en valor la construcción colectiva de vehículos aéreos no tripulados y el empoderamiento tecnológico a través del hardware y software libre y la fabricación digital. 
 
-theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+Para la construcción del dron y para entender los principios políticos de este espectacular proyecto, es necesario leer los siguientes links:
+
+[Drone Academy](http://dronehackademy.net/es/es-flone/), the Jekyll butler.
 
 ### Built on Poole
 
