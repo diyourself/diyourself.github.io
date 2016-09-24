@@ -9,11 +9,8 @@ El Proyecto [FLONE](http://flone.cc/) reivindica la utilización ciudadana del e
 Para entender los principios políticos del proyecto y para la construcción del dron, primero es necesario leer las siguientes fuentes:
 
 [Drone Academy](http://dronehackademy.net/es/es-flone/)
-
 [Instructables](http://www.instructables.com/id/Flone-30/)
-
 [Aeracoop](http://flone.aeracoop.net/)
-
 [Wiki](wiki.flone.cc/)
 
 
