@@ -9,8 +9,11 @@ El Proyecto [FLONE](http://flone.cc/) reivindica la utilización ciudadana del e
 Para la construcción del dron y para entender los principios políticos de este espectacular proyecto, primero es necesario repasar los siguientes links:
 
 [Drone Academy](http://dronehackademy.net/es/es-flone/): Información del proyecto, materiales .
+
 [Drone Academy](http://dronehackademy.net/es/es-flone/): Información del proyecto, materiales .
+
 [Drone Academy](http://dronehackademy.net/es/es-flone/): Información del proyecto, materiales .
+
 [Drone Academy](http://dronehackademy.net/es/es-flone/): Información del proyecto, materiales .
 
 
