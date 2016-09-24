@@ -7,7 +7,7 @@
 # Setup
 title:               DO IT YOURSELF     
 tagline:             'Lo técnico es político'
-description:         'Lo técnico es político. Las herramientas que usamos, mejoramos, creamos y compartimos no deben alimentar a las corporaciones   reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:         '"Las formas modernas de hegemonía estan basadas en la mediación técnica de una diversidad de prácticas sociales, sea la producción o la medicina, la educación y el ejército, y en consecuencia, la democratización de nuestra sociedad requiere un cambio radical tanto técnico como político" Feemberg   reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
