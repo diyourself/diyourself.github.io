@@ -4,7 +4,9 @@ title: 'Construyendo un Dron tipo Flone '
 published: true
 ---
 
-El Proyecto [FLONE](https://flone.cc/) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+El Proyecto [FLONE](http://flone.cc/) reivindica la utilización ciudadana del espacio aéreo, poniendo en valor la construcción colectiva de vehículos aéreos no tripulados y el empoderamiento tecnológico a través del hardware y software libre y la fabricación digital. Para la construcción del dron, hemos intentado recabar información de varias fuentes pertenecientes al proyecto:
+
+theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ### Built on Poole
 
