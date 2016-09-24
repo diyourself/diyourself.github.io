@@ -6,12 +6,14 @@ published: true
 
 El Proyecto [FLONE](http://flone.cc/) reivindica la utilización ciudadana del espacio aéreo, poniendo en valor la construcción colectiva de vehículos aéreos no tripulados y el empoderamiento tecnológico a través del hardware y software libre y la fabricación digital. 
 
-Para la construcción del dron y para entender los principios políticos de este espectacular proyecto, es necesario leer los siguientes links:
+Para la construcción del dron y para entender los principios políticos de este espectacular proyecto, primero es necesario repasar los siguientes links:
 
-[Drone Academy](http://dronehackademy.net/es/es-flone/), the Jekyll butler.
+[Drone Academy](http://dronehackademy.net/es/es-flone/): Información del proyecto, materiales .
+[Drone Academy](http://dronehackademy.net/es/es-flone/): Información del proyecto, materiales .
+[Drone Academy](http://dronehackademy.net/es/es-flone/): Información del proyecto, materiales .
+[Drone Academy](http://dronehackademy.net/es/es-flone/): Información del proyecto, materiales .
 
 
-El Proyecto [FLONE](http://flone.cc/) reivindica la utilización ciudadana del espacio aéreo, poniendo en valor la construcción colectiva de vehículos aéreos no tripulados y el empoderamiento tecnológico a través del hardware y software libre y la fabricación digital. 
 
 ### Built on Poole
 
