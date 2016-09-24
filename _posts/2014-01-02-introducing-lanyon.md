@@ -6,7 +6,7 @@ published: true
 
 El Proyecto [FLONE](http://flone.cc/) reivindica la utilización ciudadana del espacio aéreo, poniendo en valor la construcción colectiva de vehículos aéreos no tripulados y el empoderamiento tecnológico a través del hardware y software libre y la fabricación digital. 
 
-Para la construcción del dron y para entender los principios políticos de este espectacular proyecto, primero es necesario repasar los siguientes links:
+Para entender los principios políticos del proyecto y para la construcción del dron, primero es necesario leer las siguientes fuentes:
 
 [Drone Academy](http://dronehackademy.net/es/es-flone/)
 
