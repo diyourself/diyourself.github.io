@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-¡El Proyecto [FLONE](http://flone.cc/) reivindica la utilización ciudadana del espacio aéreo, poniendo en valor la construcción colectiva de vehículos aéreos no tripulados y el empoderamiento tecnológico a través del hardware y software libre y la fabricación digital. 
+El Proyecto [FLONE](http://flone.cc/) reivindica la utilización ciudadana del espacio aéreo, poniendo en valor la construcción colectiva de vehículos aéreos no tripulados y el empoderamiento tecnológico a través del hardware y software libre y la fabricación digital. 
 
 Los autores de este blog montaremos un FLONE y explicaremos, desde el principio, todo el proceso de adquisición de materiales, fabricación, problemas y soluciones encontradas a partir de nuestra experciencia. Por supuesto también invitaremos a compartir dudas, sugerencias y trucos a todos los que se animen a montar su propio dron.
 
