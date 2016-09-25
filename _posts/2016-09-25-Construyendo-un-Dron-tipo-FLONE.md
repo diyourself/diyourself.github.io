@@ -13,10 +13,6 @@ Para entender los principios políticos del proyecto y para conocer los detalles
 - [Aeracoop](http://flone.aeracoop.net/)
 - [Wiki](wiki.flone.cc/)
 
-#{% include youtubePlayer.html id="HloPr_V6elI" %}
-#{% youtube oHg5SJYRHA0 %}
-#{% include youtubePlayer.html id=page.youtubeId %}
-https://youtu.be/HloPr_V6elI
 
 ### Built on Poole
 
