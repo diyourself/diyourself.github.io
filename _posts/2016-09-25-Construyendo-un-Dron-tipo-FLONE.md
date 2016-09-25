@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ¡El Proyecto [FLONE](http://flone.cc/) reivindica la utilización ciudadana del espacio aéreo, poniendo en valor la construcción colectiva de vehículos aéreos no tripulados y el empoderamiento tecnológico a través del hardware y software libre y la fabricación digital. 
 
