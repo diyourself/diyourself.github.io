@@ -9,8 +9,10 @@ Para entender los principios políticos del proyecto y para conocer los detalles
 
 - [Drone Academy](http://dronehackademy.net/es/es-flone/)
 - [Instructables](http://www.instructables.com/id/Flone-30/)
+- [Thingverse](http://www.thingiverse.com/thing:113497)
 - [Aeracoop](http://flone.aeracoop.net/)
 - [Wiki](wiki.flone.cc/)
+
 
 
 
