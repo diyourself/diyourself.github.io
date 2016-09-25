@@ -15,7 +15,7 @@ Para entender los principios políticos del proyecto y para conocer los detalles
 
 {% include youtubePlayer.html id="HloPr_V6elI" %}
 
-## Built on Poole
+# Built on Poole
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
 
