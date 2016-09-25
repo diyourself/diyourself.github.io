@@ -1,6 +1,8 @@
 ---
 published: true
 ---
+### Introducción
+
 El Proyecto [FLONE](http://flone.cc/) reivindica la utilización ciudadana del espacio aéreo, poniendo en valor la construcción colectiva de vehículos aéreos no tripulados y el empoderamiento tecnológico a través del hardware y software libre y la fabricación digital. 
 
 Los autores de este blog montaremos un FLONE y explicaremos, desde el principio, todo el proceso de adquisición de materiales, fabricación, problemas y soluciones encontradas a partir de nuestra experciencia. Por supuesto también invitaremos a compartir dudas, sugerencias y trucos a todos los que se animen a montar su propio dron.
@@ -17,7 +19,7 @@ Para entender los principios políticos del proyecto y para conocer los detalles
 
 
 
-# Built on Poole
+### Built on Poole
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
 
