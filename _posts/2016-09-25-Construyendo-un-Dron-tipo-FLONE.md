@@ -15,7 +15,9 @@ Para entender los principios políticos del proyecto y para conocer los detalles
 
 
 {% include youtubePlayer.html id=page.youtubeId %}
+
 https://youtu.be/HloPr_V6elI
+
 {% include youtubePlayer.html id=HloPr_V6elI %}
 
 {% youtube oHg5SJYRHA0 %}
