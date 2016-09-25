@@ -4,7 +4,7 @@ title: 'Construyendo un Dron tipo Flone '
 published: true
 ---
 
-El Proyecto [FLONE](http://flone.cc/) reivindica la utilización ciudadana del espacio aéreo, poniendo en valor la construcción colectiva de vehículos aéreos no tripulados y el empoderamiento tecnológico a través del hardware y software libre y la fabricación digital. 
+2El Proyecto [FLONE](http://flone.cc/) reivindica la utilización ciudadana del espacio aéreo, poniendo en valor la construcción colectiva de vehículos aéreos no tripulados y el empoderamiento tecnológico a través del hardware y software libre y la fabricación digital. 
 
 Los autores de este blog montaremos un FLONE y explicaremos, desde el principio, todo el proceso de adquisición de materiales, fabricación, problemas y soluciones encontradas a partir de nuestra experciencia. Por supuesto también invitaremos a compartir dudas, trucos y sugerencias a todos los que se animen a montar su propio dron.
 
@@ -15,6 +15,16 @@ Para entender los principios políticos del proyecto y para conocer los detalles
 - [Aeracoop](http://flone.aeracoop.net/)
 - [Wiki](wiki.flone.cc/)
 
+
+{% include youtubePlayer.html id="HloPr_V6elI" %}
+
+
+
+{% youtube oHg5SJYRHA0 %}
+
+{% include youtubePlayer.html id=page.youtubeId %}
+
+https://youtu.be/HloPr_V6elI
 
 
 
