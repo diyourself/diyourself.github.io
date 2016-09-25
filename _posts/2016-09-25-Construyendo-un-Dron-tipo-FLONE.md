@@ -19,6 +19,12 @@ https://youtu.be/HloPr_V6elI
 
 {% youtube oHg5SJYRHA0 %}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ include.id }}" frameborder="0" allowfullscreen></iframe>
+
+{% include youtubePlayer.html id=page.youtubeId %}
+
+<iframe src="https://player.vimeo.com/video/{{ include.id }}" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
 
 ### Built on Poole
 
