@@ -19,8 +19,8 @@ Para entender los principios políticos del proyecto y para conocer los detalles
 
 
 
-### El material
-
+### Antes de Comenzar
+Como explicamos en la introducción, existen varias fuentes donde obtener información del proyecto FLONE,  
 
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
