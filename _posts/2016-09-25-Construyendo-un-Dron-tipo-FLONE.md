@@ -20,7 +20,7 @@ Para entender los principios políticos del proyecto y para conocer los detalles
 
 
 ### Antes de Comenzar
-Como explicamos en la introducción, existen varias fuentes donde obtener información del proyecto FLONE,  
+Como explicamos en la introducción, existen varias fuentes desde donde obtener información del proyecto FLONE, la que nos ha resultado mas útil al momento de adquirir el material ha sido [Instructables](http://www.instructables.com/id/Flone-30/) porque en ella se pueden obtener los componentes desde  
 
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
