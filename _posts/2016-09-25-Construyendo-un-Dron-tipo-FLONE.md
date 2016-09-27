@@ -20,9 +20,8 @@ Para entender los principios políticos del proyecto y para conocer los detalles
 
 
 ### Antes de Comenzar
-Como explicamos en la introducción, existen varias fuentes desde donde obtener información del proyecto FLONE, la que nos ha resultado mas útil al momento de adquirir el material ha sido [Instructables](http://www.instructables.com/id/Flone-30/) porque en ella se pueden obtener los componentes desde  
+Como explicamos en la introducción, existen varias fuentes desde donde obtener información del proyecto FLONE, la que nos ha resultado mas útil al momento de adquirir el material ha sido [Instructables](http://www.instructables.com/id/Flone-30/) porque en ella se pueden acceder a los componentes mediante links hacia la pagina del vendedor.
 
-Cloe, mi hija, que es tan friki como yo, me ha ayudado a montar el dron
 
 
 
